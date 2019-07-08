@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RENT CAR</string>
+    <string name="login_app">RENT CAR</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_simpan">Simpan</string>
+
+    <!-- User -->
+    <string name="id_user">ID. User</string>
+    <string name="nama_user">Nama User</string>
+    <string name="alamat">Alamat</string>
+    <string name="nik">NIK</string>
+    <string name="no">No. HP</string>
+    <string name="jenis">Jenis</string>
+    <string name="level_user">Email</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+
+    <string name="registrasi_user">Registrasi User Baru</string>
+
+    <!-- Meja -->
+    <string name="no_meja">No. Meja</string>
+    <string name="bentuk">Bentuk</string>
+
+    <!-- Menu -->
+    <string name="txt_kd_menu">KD. Menu</string>
+    <string name="txt_nama_menu">Nama Menu</string>
+    <string name="txt_deskripsi">Deskripsi</string>
+    <string name="txt_harga">Harga</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="impo">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slide Show</string>
+    <string name="tools">Tools</string>
+
+
+    <string name="open">Open ya</string>
+    <string name="close">Close ya</string>
+</resources>
